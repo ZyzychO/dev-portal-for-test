@@ -43,6 +43,11 @@ training:
     pages:
       - page: openapi/reference.page.yaml/*
 
+  - group: oleks reference
+    expanded: false
+    pages:
+      - page: openapi/oleks.page.yaml/*
+
   - group: Admin
     expanded: true
     pages:
