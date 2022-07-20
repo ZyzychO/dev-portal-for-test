@@ -1,5 +1,8 @@
 ---
-title: Mermaid diagrams
+title: Meramid
+description: GitHub-flavored markdown example
+toc:
+  enable: true
 ---
 
 # Mermaid diagrams
