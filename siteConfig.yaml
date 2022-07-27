@@ -14,6 +14,7 @@ logo:
 toc:
   enable: false
 oasDefinitions:
+  bundle: ./openapi/bundle.yaml
   petstore: ./openapi/petstore.yaml
   olekstest: https://api.redocly.com/registry/bundle/testing_oleksandr-wsu/sample/v12/openapi.yaml?branch=main
   # add links to definitions in our API registry by using a fully qualified URL.

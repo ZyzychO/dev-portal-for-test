@@ -4,11 +4,17 @@ apis:
   # Update the apiName with your actual API name, and the version with your actual API version.
   apiName@version:
     # Update the path to your OpenAPI root file
-    root: ./openapi.yaml
-
+    root: ./openapi/bundle.yaml
+    
 lint:
+  rules:
+    operation-4xx-response: off
+    no-ambiguous-paths: off
+    operation-operationId: off
+
   extends:
     - recommended
+
 
 features.openapi:
   generateCodeSamples:
