@@ -1,8 +1,9 @@
 ---
-title: Markdown example
-description: GitHub-flavored markdown example
-toc:
-  enable: true
+seo: 
+    title: Python SDK for Numbers | Sinch
+    description: Read the reference for the Numbers domain of the Python SDK.
+toc: 
+    enable: true
 ---
 # GitHub-flavored markdown example
 
